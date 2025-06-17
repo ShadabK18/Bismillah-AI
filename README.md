@@ -2,6 +2,7 @@
 This is my first git repositary.
 <br>
 Author -Shadab khan, Khalid khan and Lamiya khan
+<br>
 📱 Bismillah AI – Islamic Voice Assistant (Concept Overview)
 🎯 Target Audience
 Muslims in India, Pakistan, and eventually other regions (Middle East, Southeast Asia)
